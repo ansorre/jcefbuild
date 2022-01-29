@@ -15,7 +15,7 @@ repository used: https://github.com/ansorre/java-cef.git
 97.1.1+g50067f2+chromium-97.0.4692.71 <-- 01/07/2022 <-- error
 
 
-96.0.17+g20e2617+chromium-96.0.4664.93 <-- 12/08/2021 <-- error
+96.0.17+g20e2617+chromium-96.0.4664.93 <-- 12/08/2021 <-- SUCCESS
 
 
 96.0.16+g89c902b+chromium-96.0.4664.55 <-- 11/24/2021 <-- SUCCESS
